@@ -1,0 +1,29 @@
+body{
+  background-color:rgb(169, 236, 236);  
+}
+
+h1{
+color:rgb(34, 165, 67);   
+
+}
+
+p{
+  color:green;
+  text-align:justify;
+}
+
+
+.dica01 {
+  border: 1px salmon #CCC;
+  margin: 50px;
+}
+
+.dica02 {
+  border: 1px salmon #CCC;
+  margin: 50px;
+}
+
+.dica03 {
+  border: 1px salmon #CCC;
+  margin: 50px;
+}
